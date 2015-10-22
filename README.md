@@ -1,5 +1,7 @@
 ![Relax CMS](https://raw.githubusercontent.com/relax/relax/gh-pages/assets/images/logo_small.png "Relax logo")
 ====================================
+
+[![Join the chat at https://gitter.im/theRiddler91/relax](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/theRiddler91/relax?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Slack Status](http://slack-relax.herokuapp.com/badge.svg)](http://slack-relax.herokuapp.com/)
 
 Support our work and help us make this the best open source CMS, be our [patreon](http://patreon.com/relax)!
